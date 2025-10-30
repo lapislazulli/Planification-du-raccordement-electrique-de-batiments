@@ -1,0 +1,11 @@
+{
+  "total_buildings_connected": 381,
+  "total_buildings": 381,
+  "total_houses_connected": 389,
+  "total_cost_euros": 19050.0,
+  "total_time_hours": 0.0,
+  "total_time_days": 0.0,
+  "avg_cost_per_building": 50.0,
+  "avg_cost_per_house": 48.97,
+  "efficiency_houses_per_1000_euros": 20.42
+}
