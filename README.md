@@ -32,7 +32,7 @@ README.md
 | GeoPandas | Lecture et traitement des shapefiles |
 | Pandas | Analyse et manipulation de données |
 | Matplotlib | Visualisation (graphiques, diagrammes Gantt) |
-| JSON | Export des résultats structurés |
+| CSV | Export des résultats structurés |
 
 Le code utilise des structures classiques : piles, files, arbres binaires, et des algorithmes de tri et de filtrage pour ordonner les priorités.
 
